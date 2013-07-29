@@ -1,7 +1,8 @@
 Xmap
 ====
 
-Xmap is a Site map generator component for Joomla. Xmap allows you to create a map of your site using the structure of your menus.Joomla 2.5
+Xmap is a Site map generator component for Joomla. Xmap allows you to create a map of your site using the structure of your menus.
+
 Some of Xmap's features are:
 - Capability to create more than one sitemap with different preferences for each sitemap.
 - Generation of XML sitemaps compatible with Google, Yahoo, Bing and others.
